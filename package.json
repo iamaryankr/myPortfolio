@@ -9,10 +9,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/iamaryankr/myPortfolio"
-  },
   "homepage": "https://github.com/iamaryankr/myPortfolio",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0",
@@ -26,6 +22,7 @@
     "git": "^0.1.5",
     "jquery": "^3.6.1",
     "popper.js": "^1.16.1",
-    "vanilla-tilt": "^1.7.3"
+    "vanilla-tilt": "^1.7.3",
+    "gh-pages": "^6.1.1"
   }
 }
