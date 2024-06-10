@@ -1,6 +1,6 @@
 5982
 118C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133623985600230947 0
-68C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\package.json133623982903204252 0
+68C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\package.json133623991648948979 0
 95C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\src\assets\projectCover(smartBrain).jpg133623604415190020 0
 83C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\async\queue.js133623985668026610 0
 106C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\caniuse-lite\data\features\wasm-gc.js133623985708611568 0
@@ -8,7 +8,7 @@
 71C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\src\styles.scss133611034150947309 0
 93C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\brace-expansion\index.js133623985572601531 0
 107C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\popper.js\dist\popper-utils.min.js.map133623985623909519 0
-60C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist133623991061299650 1
+60C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist133624922514921555 1
 110C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\gh-pages\node_modules\globby\package.json133623985568817159 0
 78C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@popperjs133623985552802323 1
 86C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\csso\dist\csso.js133623985629018617 0
@@ -19,7 +19,7 @@
 112C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\caniuse-lite\data\features\text-overflow.js133623985707032480 0
 82C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\node-releases133623985593473424 1
 88C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\yaml\types\pairs.js133623985623158288 0
-73C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\package-lock.json133623990720072330 0
+73C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\package-lock.json133624924149370518 0
 96C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\fs-extra\lib\ensure\file.js133623985590417768 0
 85C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@parcel\core\src133623985685517028 1
 85C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\lmdb\src\txn.cpp133623985665119803 0
@@ -48,7 +48,7 @@
 106C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@parcel\transformer-svg\lib\inline.js133623985586738295 0
 82C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\yaml\index.js133623985605885459 0
 118C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\globby\node_modules\fast-glob\out\readers\sync.js133623985639512616 0
-68C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules133623990719257005 1
+68C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules133624924148499625 1
 67C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\src\scripts133623984618988560 1
 88C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\dotenv\package.json133623985568678591 0
 94C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\fs-extra\lib\move\move.js133623985627867608 0
@@ -106,7 +106,7 @@
 83C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\src\scripts\scrollReveal.js133611034150947309 0
 123C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\caniuse-lite\data\features\wasm-nontrapping-fptoint.js133623985708790046 0
 79C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\array-uniq133623985582603912 1
-87C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\.package-lock.json133623990720481021 0
+87C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\.package-lock.json133624924149765863 0
 112C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\caniuse-lite\data\features\trusted-types.js133623985707600960 0
 92C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\csso\lib\clean\utils.js133623985647009964 0
 98C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\jquery\src\selector-sizzle.js133623985670600236 0
@@ -275,7 +275,7 @@
 97C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\domhandler\lib\node.d.ts.map133623985595239349 0
 94C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\fs-extra\lib\util\stat.js133623985631176397 0
 83C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\balanced-match133623985585748433 1
-82C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\index.975ef6c8.js.map133623965095280360 0
+82C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\index.975ef6c8.js.map133624922514886464 0
 100C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@nodelib\fs.walk\out\index.d.ts133623985633718342 0
 101C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\jquery\src\traversing\var\dir.js133623985638360663 0
 96C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\supports-color\package.json133623985582902472 0
@@ -304,7 +304,7 @@
 75C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\base-x133623985583202357 1
 100C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\svgo\plugins\removeEmptyText.js133623985649431870 0
 75C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@lezer133623985553231713 1
-86C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@msgpackr-extract133623990719257005 1
+86C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@msgpackr-extract133624924148499625 1
 78C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\svgo\dist133623985658925669 1
 98C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\cosmiconfig\dist\types.js.map133623985634740210 0
 86C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\tslib\SECURITY.md133623985603849679 0
@@ -314,7 +314,7 @@
 89C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\lmdb\src\lmdb-js.cpp133623985664019093 0
 98C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@parcel\markdown-ansi\LICENSE133623985568774791 0
 95C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\vanilla-tilt\lib\README.md133623985620057187 0
-74C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@lmdb133623990719257005 1
+74C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@lmdb133624924148499625 1
 110C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\css-tree\lib\syntax\pseudo\nth-of-type.js133623985665518726 0
 78C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@mischnic133623985552792273 1
 83C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\once\README.md133623985572510409 0
@@ -2093,7 +2093,7 @@
 116C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\popper.js\src\utils\getSupportedPropertyName.js133623985670729270 0
 137C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\popper.js\src\utils\getViewportOffsetRectRelativeToArtbitraryNode.js133623985671001171 0
 87C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\gh-pages\readme.md133623985601784969 0
-99C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\projectCover(robofriends).11914c27.jpg133623965095209812 0
+99C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\projectCover(robofriends).11914c27.jpg133624922514591127 0
 111C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\css-tree\lib\syntax\function\expression.js133623985647004886 0
 138C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased\index.js133623985638103092 0
 106C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@parcel\package-manager\test\fixtures133623985642160030 1
@@ -2705,7 +2705,7 @@
 114C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\caniuse-lite\data\features\css-transitions.js133623985692913236 0
 132C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-mdb.txt133623985681875164 0
 96C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\async\internal\wrapAsync.js133623985678056117 0
-78C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\index.975ef6c8.js133623965095165786 0
+78C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\index.975ef6c8.js133624922514728109 0
 90C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@lezer\common\LICENSE133623985568787526 0
 101C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\lmdb\dependencies\lmdb\libraries133623985580628122 1
 106C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\caniuse-lite\data\features\gamepad.js133623985697577572 0
@@ -4767,7 +4767,7 @@
 120C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@swc\helpers\src\_iterable_to_array_limit_loose.mjs133623985681786138 0
 101C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@parcel\resolver-default\LICENSE133623985568749764 0
 108C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@swc\helpers\src\_non_iterable_rest.mjs133623985682452238 0
-83C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\index.4a508c1d.css.map133623965095642401 0
+83C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\index.4a508c1d.css.map133624922514622854 0
 140C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob133623985665119803 1
 110C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@swc\helpers\src\_non_iterable_spread.mjs133623985682611988 0
 104C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\@swc\helpers\src\_object_spread.mjs133623985682863704 0
@@ -5970,14 +5970,14 @@
 82C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\.bin\svgo.ps1133623985710518622 0
 84C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\node_modules\.bin\terser.ps1133623985710728957 0
 76C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\examples\example.gif133611034150171004 0
-67C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\assets133623991056747648 1
-81C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\favicon.2a2e97fc.png133611100146926940 0
+67C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\assets133624922514433614 1
+81C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\favicon.2a2e97fc.png133624922514543043 0
 82C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\index.1cdb65c9.js.map133623991061060427 0
 83C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\index.3442d6a7.css.map133623991061239874 0
-79C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\index.4a508c1d.css133623965095400639 0
-71C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\index.html133623991061001835 0
-81C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\profile.6ee28169.jpg133623965095250238 0
+79C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\index.4a508c1d.css133624922514473597 0
+71C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\index.html133624922514498667 0
+81C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\profile.6ee28169.jpg133624922514622224 0
 81C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\project.7d7c79fd.png133623958838052721 0
 81C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\project.f500882b.jpg133611123892059514 0
-98C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\projectCover(smartBrain).5eff6b63.jpg133623965095451407 0
-78C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\assets\resume.pdf133623991056709038 0
+98C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\projectCover(smartBrain).5eff6b63.jpg133624922514728109 0
+78C:\Users\ACER\OneDrive\Desktop\webdeveloper\myPortfolio\dist\assets\resume.pdf133624922514342417 0
