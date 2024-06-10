@@ -4,12 +4,12 @@
   "private": true,
   "source": "src/index.html",
   "scripts": {
-    "start": "parcel",
-    "build": "parcel build",
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --dist-dir build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/iamaryankr/myPortfolio",
+  "homepage": "https://iamaryankr.github.io/myPortfolio",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0",
     "gh-pages": "^6.1.1",
@@ -22,7 +22,6 @@
     "git": "^0.1.5",
     "jquery": "^3.6.1",
     "popper.js": "^1.16.1",
-    "vanilla-tilt": "^1.7.3",
-    "gh-pages": "^6.1.1"
+    "vanilla-tilt": "^1.7.3"
   }
 }
