@@ -5,7 +5,7 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --dist-dir build --public-url ./",
+    "build": "parcel build src/index.html",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
