@@ -7,7 +7,10 @@ var path = require('path')
 if (!buildFromSource()) {
   proc.exec('node-gyp-build-optional-packages-test', function (err, stdout, stderr) {
     if (err) {
-      if (verbose()) console.error(stderr)
+      console.error(stderr)
+      console.error('The failure above indicates the primary issue with the native builds which are included for all' +
+         ' major platforms. Will now attempt to build the package locally in case this can be resolved by' +
+         ' re-compiling.')
       preinstall()
     }
   })
@@ -60,9 +63,6 @@ function buildFromSource () {
   return hasFlag('--build-from-source') || process.env.npm_config_build_from_source === 'true'
 }
 
-function verbose () {
-  return hasFlag('--verbose') || process.env.npm_config_loglevel === 'verbose'
-}
 
 // TODO (next major): remove in favor of env.npm_config_* which works since npm
 // 0.1.8 while npm_config_argv will stop working in npm 7. See npm/rfcs#90

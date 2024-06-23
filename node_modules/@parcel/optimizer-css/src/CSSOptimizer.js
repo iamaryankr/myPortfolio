@@ -2,16 +2,21 @@
 
 import SourceMap from '@parcel/source-map';
 import {Optimizer} from '@parcel/plugin';
-import {
+// $FlowFixMe - init for browser build.
+import init, {
   transform,
   transformStyleAttribute,
   browserslistToTargets,
-} from '@parcel/css';
+} from 'lightningcss';
 import {blobToBuffer} from '@parcel/utils';
 import browserslist from 'browserslist';
 import nullthrows from 'nullthrows';
 import path from 'path';
-import {md, generateJSONCodeHighlights} from '@parcel/diagnostic';
+import {
+  convertSourceLocationToHighlight,
+  md,
+  generateJSONCodeHighlights,
+} from '@parcel/diagnostic';
 
 export default (new Optimizer({
   async loadConfig({config, logger, options}) {
@@ -32,7 +37,7 @@ export default (new Optimizer({
       let message;
       if (filename === 'package.json') {
         message = md`
-Parcel\'s default CSS minifer changed from cssnano to @parcel/css, but a "cssnano" key was found in **package.json**. Either remove this configuration, or configure Parcel to use @parcel/optimizer-cssnano instead.
+Parcel\'s default CSS minifer changed from cssnano to lightningcss, but a "cssnano" key was found in **package.json**. Either remove this configuration, or configure Parcel to use @parcel/optimizer-cssnano instead.
         `;
         let contents = await options.inputFS.readFile(
           configFile.filePath,
@@ -42,7 +47,7 @@ Parcel\'s default CSS minifer changed from cssnano to @parcel/css, but a "cssnan
           {key: '/cssnano', type: 'key'},
         ]);
       } else {
-        message = md`Parcel\'s default CSS minifer changed from cssnano to @parcel/css, but a __${filename}__ config file was found. Either remove this config file, or configure Parcel to use @parcel/optimizer-cssnano instead.`;
+        message = md`Parcel\'s default CSS minifer changed from cssnano to lightningcss, but a __${filename}__ config file was found. Either remove this config file, or configure Parcel to use @parcel/optimizer-cssnano instead.`;
         codeHighlights = [
           {
             start: {line: 1, column: 1},
@@ -112,7 +117,7 @@ Parcel\'s default CSS minifer changed from cssnano to @parcel/css, but a "cssnan
                     filePath: nullthrows(
                       loc?.filePath ?? defaultImport.sourcePath,
                     ),
-                    codeHighlights: [{start: loc.start, end: loc.end}],
+                    codeHighlights: [convertSourceLocationToHighlight(loc)],
                   },
                 ],
               }),
@@ -146,9 +151,14 @@ Parcel\'s default CSS minifer changed from cssnano to @parcel/css, but a "cssnan
         });
 
         return {
-          contents: result.code,
+          contents: Buffer.from(result.code),
         };
       }
+    }
+
+    // $FlowFixMe
+    if (process.browser) {
+      await init();
     }
 
     let result = transform({
@@ -162,7 +172,7 @@ Parcel\'s default CSS minifer changed from cssnano to @parcel/css, but a "cssnan
 
     let map;
     if (result.map != null) {
-      let vlqMap = JSON.parse(result.map.toString());
+      let vlqMap = JSON.parse(Buffer.from(result.map).toString());
       map = new SourceMap(options.projectRoot);
       map.addVLQMap(vlqMap);
       if (prevMap) {
@@ -170,7 +180,7 @@ Parcel\'s default CSS minifer changed from cssnano to @parcel/css, but a "cssnan
       }
     }
 
-    let contents = result.code;
+    let contents = Buffer.from(result.code);
     if (bundle.env.sourceMap) {
       let reference = await getSourceMapReference(map);
       if (reference != null) {
@@ -184,7 +194,7 @@ Parcel\'s default CSS minifer changed from cssnano to @parcel/css, but a "cssnan
     }
 
     return {
-      contents,
+      contents: Buffer.from(contents),
       map,
     };
   },
