@@ -9,6 +9,10 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamaryankr/myPortfolio"
+  },
   "homepage": "https://iamaryankr.github.io/myPortfolio",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0",
