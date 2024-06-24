@@ -25,7 +25,6 @@
     "bootstrap": "^5.2.2",
     "git": "^0.1.5",
     "jquery": "^3.6.1",
-    "popper.js": "^1.16.1",
     "vanilla-tilt": "^1.7.3"
   }
 }
