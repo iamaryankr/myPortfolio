@@ -37,3 +37,21 @@
     }
   }
 }
+
+.contact-button {
+  padding: 1.2rem 3rem;
+  font-size: 1.8rem;
+  border-radius: 50px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  
+  i {
+    margin-right: 1rem;
+  }
+  
+  &:hover {
+    transform: translateY(-5px) scale(1.03);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  }
+}

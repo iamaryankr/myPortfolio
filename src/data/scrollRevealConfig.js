@@ -7,6 +7,16 @@ export const defaultProps = {
 };
 
 export const targetElements = [
+  // Add this to your targetElements array
+  {
+    element: ".profile-card",
+    animation: {
+      delay: 200,
+      distance: "0px",
+      origin: "bottom"
+    }
+  }
+  ,
   {
     element: ".section-title",
     animation: {

@@ -1,0 +1,1162 @@
+import initScrollReveal from "./scripts/scrollReveal";
+import initTiltEffect from "./scripts/tiltAnimation";
+import { targetElements, defaultProps } from "./data/scrollRevealConfig";
+
+initScrollReveal(targetElements, defaultProps);
+initTiltEffect();
+
+---------------------------------------------------------------------------
+
+@import "./sass/vendors/bootstrap.scss";
+
+@import "./sass/abstracts/mixins";
+@import "./sass/abstracts/variables";
+@import "./sass/abstracts/helpers";
+
+@import "./sass/base/base";
+@import "./sass/base/typography";
+
+@import "./sass/components/buttons";
+
+@import "./sass/layout/footer";
+@import "./sass/layout/sections";
+
+@import "./sass/sections/about";
+@import "./sass/sections/contact";
+@import "./sass/sections/hero";
+@import "./sass/sections/projects";
+
+---------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en" class="sr">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" type="image/png" href="assets/favicon.png" />
+
+    <!-- Todo: put here your site title -->
+    <title>Aryan Kumar | Developer</title>
+    <!-- Todo: add some coding keywords below - e.g: (javascript, yourusername, etc) -->
+    <meta name="keywords" content="iamaryankr, Aryan, Developer" />
+    <!-- Todo: improve your SEO by adding a small description of you -->
+    <meta name="description" content="Aryan Kumar | Developer" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="styles.scss" />
+    <script
+      defer
+      src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"
+    ></script>
+
+    <!-- Todo: remove the below script once you finish your portfolio -->
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+  </head>
+
+  <!-- Todo: read the following HTML Todos to create your stunning portfolio website -->
+  <body>
+    <div id="top"></div>
+
+    <!-- **** Hero Section **** -->
+    <section id="hero" class="jumbotron">
+      <div class="container">
+        <h1 class="hero-title load-hidden">
+          Hi, my name is <span class="text-color-main">Aryan Kumar</span>
+          <br />
+          I'm the Developer you need.
+        </h1>
+        <p class="hero-cta load-hidden">
+          <a rel="noreferrer" class="cta-btn cta-btn--hero" href="#about"
+            >Know more</a
+          >
+        </p>
+      </div>
+    </section>
+    <!-- /END Hero Section -->
+
+    <!-- **** About Section **** -->
+    <section id="about">
+      <div class="container">
+        <h2 class="section-title load-hidden">About me</h2>
+        <div class="row about-wrapper">
+          <div class="col-md-6 col-sm-12">
+            <div class="about-wrapper__image load-hidden">
+              <img
+                alt="Profile Image"
+                class="img-fluid rounded shadow-lg"
+                height="auto"
+                width="300px"
+                src="assets/profile.jpg"
+                alt="Profile Image"
+              />
+            </div>
+          </div>
+          <div class="col-md-6 col-sm-12">
+            <div class="about-wrapper__info load-hidden">
+              <p class="about-wrapper__info-text">
+                Hi, I have been learning web development for a long time, although this field is 
+                constantly evolving and every developer is always a learner. What makes me different are 
+                my problem solving skills, which I have aquired over time by practicing Competetive programing and learning about various algorithms.
+              </p>
+              <p class="about-wrapper__info-text">
+                I also love Working out, Music, Movies and travelling.
+              </p>
+              <span class="d-flex mt-3">
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn cta-btn--resume"
+                  href="assets/resume.pdf"
+                >
+                  View Resume
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /END About Section -->
+
+    <!-- **** Projects Section **** -->
+    <section id="projects">
+      <div class="container">
+        <div class="project-wrapper">
+          <h2 class="section-title dark-blue-text">Projects</h2>
+          
+          <!-- Notice: each .row is a project -->
+          <div class="row">
+            <div class="col-lg-4 col-sm-12">
+              <div class="project-wrapper__text load-hidden">
+                <h3 class="project-wrapper__text-title">IIT-Connects App</h3>
+                <div>
+                  <p class="mb-4">
+                    <p>This is my project in which I have made a full-stack web application which connects people of IITR. It is similar to using any other social media app</p>
+                    For front-end => I have used React.js, html5, css3, Redux, Hooks, React-DOM, Vite and so on.. For back-end => I have used Node.js, Express.js, Sockets, Cloudinary and so on.. For Database => I have used MongoDB online cloud
+                  </p>
+                </div>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn cta-btn--hero"
+                  href="https://iitr-connects.onrender.com"
+                >
+                  See Live
+                </a><br>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn text-color-main"
+                  href="https://github.com/iamaryankr/IITR-Connects"
+                >
+                  Source Code
+                </a>
+              </div>
+            </div>
+            <div class="col-lg-8 col-sm-12">
+              <div class="project-wrapper__image load-hidden">
+                <a rel="noreferrer" href="#!" target="_blank">
+                  <div
+                    data-tilt
+                    data-tilt-max="4"
+                    data-tilt-glare="true"
+                    data-tilt-max-glare="0.5"
+                    class="thumbnail rounded js-tilt"
+                  >
+                    <img
+                      alt="Project Image"
+                      class="img-fluid"
+                      src="assets/projectCover(iitrconnects).png"
+                    />
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- /END Project -->
+          <div class="row">
+            <div class="col-lg-4 col-sm-12">
+              <div class="project-wrapper__text load-hidden">
+                <h3 class="project-wrapper__text-title">Face Recognition App</h3>
+                <div>
+                  <p class="mb-4">
+                    <p>This is my first ever full-stack app. It's a fun website that 
+                      enables users to register themselves and then get an image URL of 
+                      a person, in which the app will detect the face of that person.</p>
+                    Tools Used:  pSQL, pgAdmin4, Express.js, Node,js, Postman, React.js, JS, HTML5, CSS3
+
+                  </p>
+                </div>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn cta-btn--hero"
+                  href="https://myfacedetectingapp.onrender.com"
+                >
+                  See Live
+                </a><br>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn text-color-main"
+                  href="https://github.com/iamaryankr/myFacedetectingApp"
+                >
+                  Source Code(Front-end)
+                </a>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn text-color-main"
+                  href="https://github.com/iamaryankr/myFacedetectingApp-back-end-"
+                >
+                  Source Code(Back-end)
+                </a>
+              </div>
+            </div>
+            <div class="col-lg-8 col-sm-12">
+              <div class="project-wrapper__image load-hidden">
+                <a rel="noreferrer" href="#!" target="_blank">
+                  <div
+                    data-tilt
+                    data-tilt-max="4"
+                    data-tilt-glare="true"
+                    data-tilt-max-glare="0.5"
+                    class="thumbnail rounded js-tilt"
+                  >
+                    <img
+                      alt="Project Image"
+                      class="img-fluid"
+                      src="assets/projectCover(smartBrain).jpg"
+                    />
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- /END Project -->
+          <!-- Notice: each .row is a project -->
+          <div class="row">
+            <div class="col-lg-4 col-sm-12">
+              <div class="project-wrapper__text load-hidden">
+                <h3 class="project-wrapper__text-title">Music Player</h3>
+                <div>
+                  <p class="mb-4">
+                    This web app lets you play, pause, and shuffle between different songs.
+                  </p>
+                </div>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn cta-btn--hero"
+                  href="https://iamaryankr.github.io/musicPlayer/"
+                >
+                  See Live
+                </a><br>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn text-color-main"
+                  href="https://github.com/iamaryankr/musicPlayer"
+                >
+                  Source Code
+                </a>
+              </div>
+            </div>
+            <div class="col-lg-8 col-sm-12">
+              <div class="project-wrapper__image load-hidden">
+                <a rel="noreferrer" href="#!" target="_blank">
+                  <div
+                    data-tilt
+                    data-tilt-max="4"
+                    data-tilt-glare="true"
+                    data-tilt-max-glare="0.5"
+                    class="thumbnail rounded js-tilt"
+                  >
+                    <img
+                      alt="Project Image"
+                      class="img-fluid"
+                      src="assets/projectCover(musicplayer).png"
+                    />
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- /END Project -->
+          <!-- Notice: each .row is a project -->
+          <div class="row">
+            <div class="col-lg-4 col-sm-12">
+              <div class="project-wrapper__text load-hidden">
+                <h3 class="project-wrapper__text-title">Dark and Light mode</h3>
+                <div>
+                  <p class="mb-4">
+                    With this project, I figured out how does the dark mode actually work in different kinds of websites.
+                  </p>
+                </div>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn cta-btn--hero"
+                  href="https://iamaryankr.github.io/Dark-lightMode-/"
+                >
+                  See Live
+                </a><br>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn text-color-main"
+                  href="https://github.com/iamaryankr/Dark-lightMode-"
+                >
+                  Source Code
+                </a>
+              </div>
+            </div>
+            <div class="col-lg-8 col-sm-12">
+              <div class="project-wrapper__image load-hidden">
+                <a rel="noreferrer" href="#!" target="_blank">
+                  <div
+                    data-tilt
+                    data-tilt-max="4"
+                    data-tilt-glare="true"
+                    data-tilt-max-glare="0.5"
+                    class="thumbnail rounded js-tilt"
+                  >
+                    <img
+                      alt="Project Image"
+                      class="img-fluid"
+                      src="assets/projectCover(lightdark).png"
+                    />
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- /END Project -->
+          <!-- Notice: each .row is a project -->
+          <div class="row">
+            <div class="col-lg-4 col-sm-12">
+              <div class="project-wrapper__text load-hidden">
+                <h3 class="project-wrapper__text-title">Robofriends</h3>
+                <div>
+                  <p class="mb-4">
+                    Silly front-end project, which is like a platform where you
+                    find your robot friend!
+                  </p>
+                </div>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn cta-btn--hero"
+                  href="https://iamaryankr.github.io/robofriends/"
+                >
+                  See Live
+                </a><br>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn text-color-main"
+                  href="https://github.com/iamaryankr/robofriends#!"
+                >
+                  Source Code
+                </a>
+              </div>
+            </div>
+            <div class="col-lg-8 col-sm-12">
+              <div class="project-wrapper__image load-hidden">
+                <a rel="noreferrer" href="#!" target="_blank">
+                  <div
+                    data-tilt
+                    data-tilt-max="4"
+                    data-tilt-glare="true"
+                    data-tilt-max-glare="0.5"
+                    class="thumbnail rounded js-tilt"
+                  >
+                    <img
+                      alt="Project Image"
+                      class="img-fluid"
+                      src="assets/projectCover(robofriends).jpg"
+                    />
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- /END Project -->
+          <!-- Notice: each .row is a project -->
+          <div class="row">
+            <div class="col-lg-4 col-sm-12">
+              <div class="project-wrapper__text load-hidden">
+                <h3 class="project-wrapper__text-title">Quote-generator</h3>
+                <div>
+                  <p class="mb-4">
+                    Enlighten your day by reading a motivational quote everytime you use this App.
+                  </p>
+                </div>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn cta-btn--hero"
+                  href="https://iamaryankr.github.io/quote-generator/"
+                >
+                  See Live
+                </a><br>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn text-color-main"
+                  href="https://github.com/iamaryankr/quote-generator/tree/master"
+                >
+                  Source Code
+                </a>
+              </div>
+            </div>
+            <div class="col-lg-8 col-sm-12">
+              <div class="project-wrapper__image load-hidden">
+                <a rel="noreferrer" href="#!" target="_blank">
+                  <div
+                    data-tilt
+                    data-tilt-max="4"
+                    data-tilt-glare="true"
+                    data-tilt-max-glare="0.5"
+                    class="thumbnail rounded js-tilt"
+                  >
+                    <img
+                      alt="Project Image"
+                      class="img-fluid"
+                      src="assets/projectCover(quote).png"
+                    />
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- /END Project -->
+
+
+          
+        </div>
+      </div>
+    </section>
+    <!-- /END Projects Section -->
+
+    <!-- **** Contact Section **** -->
+    <section id="contact">
+      <div class="container">
+        <h2 class="section-title">CONTACT</h2>
+        <div class="contact-wrapper load-hidden">
+          <p class="contact-wrapper__text">Drop an email down below.</p>
+          <a
+            rel="noreferrer"
+            target="_blank"
+            class="cta-btn cta-btn--resume"
+            href="mailto:iitraryan@gmail.com"
+            >Email</a
+          >
+        </div>
+      </div>
+    </section>
+    <!-- /END Contact Section -->
+
+    <!-- **** Footer Section **** -->
+    <footer class="footer navbar-static-bottom">
+      <div class="container">
+        <a rel="noreferrer" href="#top" class="back-to-top">
+          <i class="fa fa-angle-up fa-2x" aria-hidden="true"></i>
+        </a>
+        <div class="social-links">
+          <a rel="noreferrer" href="https://www.linkedin.com/in/aryan-kumar-84223a228/" target="_blank">
+            <i class="fa fa-linkedin fa-inverse"></i>
+          </a>
+          <a rel="noreferrer" href="https://github.com/iamaryankr/" target="_blank">
+            <i class="fa fa-github fa-inverse"></i>
+          </a>
+          <!-- <a rel="noreferrer" href="#!" target="_blank">
+            <i class="fa fa-twitter fa-inverse"></i>
+          </a> -->
+        </div>
+
+    <script defer type="module" src="index.js"></script>
+  </body>
+</html>
+
+---------------------------------------------------------------------------
+
+import VanillaTilt from "vanilla-tilt";
+
+export default function initTiltAnimation() {
+  const elements = document.querySelectorAll(".js-tilt");
+  VanillaTilt.init(elements);
+}
+
+
+---------------------------------------------------------------------------
+
+export default function initScrollReveal(targetElements, defaultProps) {
+  if (!targetElements.length) return;
+
+  ScrollReveal({ reset: false });
+
+  targetElements.forEach(({ element, animation }) => {
+    ScrollReveal().reveal(element, Object.assign({}, defaultProps, animation));
+  });
+}
+
+
+---------------------------------------------------------------------------
+
+@import "~bootstrap/scss/bootstrap";
+
+
+---------------------------------------------------------------------------
+
+#projects {
+  background-color: $white-color;
+  color: $dark-blue-text;
+  margin-top: -10rem;
+  padding-top: 15rem;
+
+  @include respond(tab-land) {
+    margin-top: 0;
+    padding-top: 5rem;
+  }
+
+  .project-wrapper {
+    margin-bottom: 15rem;
+
+    @include respond(phone) {
+      margin-bottom: 0rem;
+    }
+
+    .row {
+      margin-bottom: 8rem;
+
+      @include respond(phone) {
+        margin-bottom: 4rem;
+      }
+    }
+
+    &__text {
+      text-align: left;
+
+      @include respond(phone) {
+        margin-bottom: 2.5rem !important;
+      }
+      @include respond(tab-land) {
+        margin-bottom: 4.8rem;
+      }
+
+      &-title {
+        font-weight: bold;
+        margin-bottom: 1.8rem;
+        font-size: $mid-font-size;
+
+        @include respond(phone) {
+          font-size: 2rem;
+        }
+      }
+
+      & p > a {
+        color: $secondary-color;
+      }
+    }
+
+    &__image {
+      width: 90%;
+      margin: 0 auto;
+
+      @include respond(tab-land) {
+        width: 100%;
+        margin: 0;
+      }
+
+      & .thumbnail {
+        border: none;
+        box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+        transition: all 0.2s ease-out;
+        box-shadow: 0 6px 10px rgba(0, 0, 0, 0.08), 0 0 6px rgba(0, 0, 0, 0.05);
+        transition: 0.5s transform cubic-bezier(0.155, 1.105, 0.295, 1.12),
+          0.5s box-shadow,
+          0.5s -webkit-transform cubic-bezier(0.155, 1.105, 0.295, 1.12);
+
+        @include respond(phone) {
+          border: 1px solid $light-grey;
+          box-shadow: none;
+          margin-bottom: 3.2rem;
+        }
+      }
+    }
+  }
+}
+
+
+---------------------------------------------------------------------------
+
+#hero {
+  min-height: 100vh;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  border-bottom: 0px;
+  background: $white-color;
+  font-weight: 400;
+  color: $dark-blue-text;
+  padding: 0rem 5.6rem;
+  margin-bottom: 0;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+
+  // Set position sticky so the jumbotron stays fixed while you scroll.
+  // position: sticky;
+
+  // If you want to set a background image on the hero section, uncomment these with your custom image
+
+  /* background: url("/src/assets/[your-image].png");
+  background-position: center;
+  background-size: cover; */
+
+  @include respond(phone) {
+    padding: 0rem $default-font-size;
+  }
+
+  .hero-title {
+    font-size: 5.6rem;
+    font-weight: 700;
+    margin-bottom: 3.2rem;
+    text-align: left;
+
+    @include respond(tab-land) {
+      font-size: 4rem;
+    }
+    @include respond(tab-port) {
+      font-size: 3.6rem;
+      text-align: center;
+    }
+    @include respond(phone) {
+      font-size: 3.5rem;
+      line-height: 1.5;
+    }
+    @include respond(phone-xs) {
+      font-size: 2.8rem;
+    }
+  }
+
+  .hero-cta {
+    display: flex;
+
+    @include respond(tab-port) {
+      justify-content: center;
+    }
+
+    & a {
+      font-size: 2.4rem;
+
+      @include respond(phone) {
+        font-size: 2rem;
+      }
+    }
+  }
+}
+
+
+---------------------------------------------------------------------------
+
+#contact {
+  background-image: linear-gradient(
+    135deg,
+    $primary-color 0%,
+    $secondary-color 100%
+  );
+  -webkit-clip-path: polygon(0 15vh, 100% 0, 100% 100%, 0 100%);
+  clip-path: polygon(0 15vh, 100% 0, 100% 100%, 0 100%);
+  padding: 15rem 0 10rem 0;
+  margin-top: -10rem;
+  margin-bottom: -1px;
+  color: $white-color;
+
+  @include respond(tab-land) {
+    padding: 10rem 0;
+    clip-path: none;
+    margin-top: 0;
+    -webkit-clip-path: none;
+  }
+
+  .contact-wrapper {
+    margin-top: 3.2rem;
+    padding: 0 2rem;
+    backface-visibility: hidden;
+
+    &__text {
+      margin-bottom: 2.5rem;
+    }
+
+    &__text,
+    a {
+      font-size: 2.4rem;
+
+      @include respond(phone) {
+        font-size: 2rem;
+      }
+    }
+  }
+}
+
+
+---------------------------------------------------------------------------
+
+#about {
+  background-color: $primary-color;
+  background-image: linear-gradient(
+    135deg,
+    $primary-color 0%,
+    $secondary-color 100%
+  );
+  color: $white-color;
+  height: 100%;
+  border-top: 0px;
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
+  padding-bottom: 10%;
+
+  @include respond(tab-land) {
+    height: 100%;
+    -webkit-clip-path: none;
+    clip-path: none;
+  }
+
+  .about-wrapper {
+    @include respond(phone) {
+      padding-bottom: 5rem;
+    }
+
+    &__image {
+      display: flex;
+      height: 100%;
+      align-items: center;
+      justify-content: center;
+
+      @include respond(tab-land) {
+        height: 100%;
+      }
+      @include respond(tab-port-sm) {
+        padding-bottom: 6.4rem;
+      }
+    }
+
+    &__info {
+      display: flex;
+      height: 100%;
+      justify-content: center;
+      flex-direction: column;
+
+      @include respond(tab-port-sm) {
+        align-items: center;
+      }
+
+      &-text {
+        text-align: left;
+
+        @include respond(tab-port) {
+          text-align: left;
+        }
+        @include respond(tab-port-sm) {
+          text-align: center;
+        }
+
+        &--important {
+          background: darken($secondary-color, 1%);
+          display: inline-block;
+          font-style: italic;
+          padding: 0 0.3rem;
+          margin: 0.3rem 0;
+          line-height: 1.6;
+
+          @include respond(phone) {
+            display: inline;
+            margin: 0;
+            padding: 0;
+            background: transparent;
+            font-style: normal;
+          }
+        }
+      }
+    }
+  }
+}
+
+
+---------------------------------------------------------------------------
+
+// Section
+section {
+  padding: 5rem 0rem;
+
+  @include respond(phone) {
+    border: none;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+
+---------------------------------------------------------------------------
+
+.footer {
+  background-color: $dark-grey;
+  color: $white-color;
+  padding: 4.8rem 0;
+
+  @include respond(phone) {
+    border: 0px;
+  }
+
+  &__text {
+    color: darken($white-color, 50%);
+    font-size: 1.3rem;
+
+    a {
+      color: darken($white-color, 50%);
+      font-size: 1.3rem;
+      transition: all 0.4s;
+      display: inline-block;
+      background-color: $dark-grey;
+
+      &:hover,
+      &:active {
+        color: $primary-color;
+        -webkit-box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.15);
+        box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.15);
+      }
+    }
+  }
+
+  & hr {
+    margin: 1rem auto;
+    border: 0;
+    width: 50%;
+    border-top: 2px solid grey;
+  }
+}
+
+.social-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  a {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: $white-color;
+    font-size: 3rem;
+    width: 5rem;
+    height: 5rem;
+    margin: $default-font-size $default-font-size;
+    transition: all 0.2s ease-in;
+
+    &:hover {
+      transform: translateY(-2px);
+    }
+  }
+}
+
+.back-to-top i {
+  color: $white-color;
+  margin: 1rem 0 $default-font-size;
+  transition: all 0.2s ease-in;
+
+  &:hover {
+    transform: translateY(-2px);
+  }
+}
+
+
+---------------------------------------------------------------------------
+
+/* Call to Action Button */
+.cta-btn {
+  display: inline-block;
+  position: relative;
+  padding: 0.8rem $default-font-size;
+  font-weight: bold;
+  line-height: 1;
+  z-index: 1;
+  transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.6s;
+
+  &::after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 0px;
+    height: 100%;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.3s;
+  }
+}
+
+/* Hero Style */
+.cta-btn--hero {
+  @include supportColorForIE11();
+  border: 2px solid transparent;
+  border-image: linear-gradient(
+    135deg,
+    $primary-color 0%,
+    $secondary-color 100%
+  );
+  border-image-slice: 1;
+  @include supportIE11() {
+    color: $secondary-color !important;
+    &:hover {
+      color: $white-color !important;
+    }
+  }
+
+  @include respond(phone) {
+    background-image: none;
+    border: 2px solid $secondary-color;
+    -webkit-text-fill-color: $secondary-color;
+  }
+
+  &::after {
+    background-image: linear-gradient(
+      135deg,
+      $primary-color 0%,
+      $secondary-color 100%
+    );
+
+    @include respond(phone) {
+      background-image: none;
+    }
+  }
+
+  &:hover {
+    -webkit-text-fill-color: $white-color;
+    text-decoration: none;
+
+    @include respond(phone) {
+      -webkit-text-fill-color: $secondary-color;
+    }
+
+    &::after {
+      width: 100%;
+    }
+  }
+}
+
+/* Resume Style */
+.cta-btn--resume {
+  color: $white-color;
+  border: 2px solid $white-color;
+
+  &::after {
+    background: $white-color;
+  }
+
+  &:hover {
+    color: $secondary-color;
+    text-decoration: none;
+
+    &::after {
+      width: 100%;
+    }
+  }
+}
+
+/* Arrow Button */
+.up i {
+  color: #272727;
+}
+
+
+---------------------------------------------------------------------------
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
+
+h1 {
+  font-weight: 700;
+}
+
+p,
+a {
+  font-family: "Montserrat", sans-serif;
+  font-size: $default-font-size;
+}
+
+a,
+a:link,
+a:hover,
+a:visited,
+a:active {
+  text-decoration: none;
+}
+
+a:hover {
+  transition: all 0.3s ease-in-out;
+}
+
+.section-title {
+  margin: 0px;
+  margin-bottom: 4.5rem;
+  font-size: $big-font-size;
+  font-weight: bold;
+  text-transform: uppercase;
+
+  @include respond(phone) {
+    font-size: 2.8rem;
+  }
+}
+
+.dark-blue-text {
+  color: $dark-blue-text !important;
+}
+
+.text-color-main {
+  @include supportColorForIE11();
+
+  // Responsive text purple style
+  @include respond(phone) {
+    background-image: none;
+    -webkit-text-fill-color: $secondary-color;
+  }
+
+  &:hover {
+    transform: translateX(2px);
+  }
+}
+
+
+---------------------------------------------------------------------------
+
+html {
+  font-size: 62.5%;
+
+  &.sr .load-hidden {
+    visibility: hidden;
+  }
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+
+---------------------------------------------------------------------------
+
+// COLORS
+$primary-color: #00d2ff;
+$secondary-color: #536bf0;
+
+$white-color: #fff;
+
+$dark-grey: #333333;
+$light-grey: #d2d2d2;
+
+$dark-blue-text: #272341; // For Headings
+
+// FONT SIZE
+$default-font-size: 1.6rem;
+$big-font-size: 4rem;
+$mid-font-size: 2.5rem;
+
+
+---------------------------------------------------------------------------
+
+// MEDIA QUERY MANAGER
+/*
+
+0 - 600px:          Phone
+600px - 900px       Table Portrait
+900px - 1200px      Table Landscape
+[1200px - 1800px]   Desktop Normal Styles
+1800px +            Big Desktop
+
+1em = 16px
+
+ORDER: Base + Typography > Generar Layout + Grid > Page Layout > Components
+
+*/
+@mixin respond($breakpoint) {
+  // Phone-xs
+  @if $breakpoint == phone-xs {
+    @media (max-width: 20em) {
+      @content;
+    } //0 - 320px
+  }
+  // Phone
+  @if $breakpoint == phone {
+    @media (max-width: 37.5em) {
+      @content;
+    } //0 - 600px
+  }
+  // Table small
+  @if $breakpoint == tab-port-sm {
+    @media (max-width: 48em) {
+      @content;
+    } //768px
+  }
+  // Table Portrait
+  @if $breakpoint == tab-port {
+    @media (max-width: 56.25em) {
+      @content;
+    } //900px
+  }
+  // Table Landscape
+  @if $breakpoint == tab-land {
+    @media (max-width: 75em) {
+      @content;
+    } //1200px
+  }
+  // Big Desktop
+  @if $breakpoint == big-desktop {
+    @media (min-width: 112.5em) {
+      @content;
+    } //1800px +
+  }
+}
+
+// Border White Mixin
+@mixin section-borders {
+  border: 1.5rem solid #fff;
+  border-top: 0;
+  border-bottom: 0;
+}
+
+@mixin supportColorForIE11 {
+  // Fall for text-gradient not supported in IE11
+  color: $secondary-color;
+  -webkit-text-fill-color: $secondary-color; // fallback
+  @supports (-webkit-background-clip: text) or (background-clip: text) {
+    background-image: linear-gradient(
+      135deg,
+      $primary-color 0%,
+      $secondary-color 100%
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+  }
+}
+
+@mixin supportIE11 {
+  // Provide your basic styles to support IE11
+  @media screen and (-ms-high-contrast: active),
+    screen and (-ms-high-contrast: none) {
+    @content;
+  }
+}
+
+
+---------------------------------------------------------------------------
+// Margins
+.mb-8 {
+  margin-bottom: 8rem !important;
+}

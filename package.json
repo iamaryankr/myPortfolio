@@ -25,6 +25,7 @@
     "bootstrap": "^5.2.2",
     "git": "^0.1.5",
     "jquery": "^3.6.1",
+    "nodemon": "^3.1.9",
     "vanilla-tilt": "^1.7.3"
   }
 }
