@@ -1,4 +1,4 @@
-13412
+13428
 87C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\find-cache-dir\package.json133623985578080201 0
 109C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\schemas\plugins\css\CssParserOptions.json133889653662175172 0
 121C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\package-manager\test\getCurrentPackageManager.test.js133636070372149586 0
@@ -139,7 +139,7 @@
 120C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\schemas\plugins\sharing\ProvideSharedPlugin.check.js133889653656342360 0
 84C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\src\assets\projectCover(megablog).png133889650744419291 0
 75C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\brace-expansion133832230930747847 1
-61C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\src\index.html133890125105897129 0
+61C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\src\index.html133890130085723915 0
 102C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\caniuse-lite\data\features\css3-cursors.js133889653645409805 0
 78C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\lib\errors133889653627385088 1
 80C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\neo-async\doUntil.js133889653622056045 0
@@ -321,6 +321,7 @@
 91C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\memfs\lib\snapshot\types.js.map133889653638461900 0
 77C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\src\sass\base\_typography.scss133611034150786858 0
 75C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\src\assets\Codechef-logo.png133890112784068254 0
+135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\06133890128385236304 1
 71C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\src\sass\base\_base.scss133611034150786858 0
 106C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\caniuse-lite\data\features\css-writing-mode.js133889653645049446 0
 174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\83\7118e9eea4ba16884d24173ca9cc150b2b74d2133639041825725989 0
@@ -507,7 +508,7 @@
 88C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\binary-extensions\index.d.ts133636070360000000 0
 132C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@swc\helpers\_\_class_check_private_static_field_descriptor\package.json133636070475013315 0
 69C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\encodeurl133889653601139522 1
-130C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\index133822118390375382 0
+130C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\index133890130128107394 0
 87C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@webassemblyjs\wasm-gen\lib133889653612742796 1
 64C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@swc133889654971921292 1
 80C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\node-forge\lib\md.js133889653622269225 0
@@ -648,6 +649,7 @@
 85C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\serve-static\package.json133889653599652068 0
 74C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\balanced-match133832230929971726 1
 67C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\globals133832230937724668 1
+174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\be\746eeec46eb75683dd3f5f32b027f491514f1d133890128388165420 0
 104C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\lib\dependencies\ImportDependency.js133889653649904278 0
 84C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\strip-outer\package.json133623985568523702 0
 83C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\diagnostic\test133832233941331842 1
@@ -840,7 +842,7 @@
 75C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\lib\hmr133889653651617902 1
 70C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\concat-map133832230932811056 1
 78C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\iconv-lite\LICENSE133889653599652068 0
-131C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\config133639041832456600 0
+131C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\config133890128386857681 0
 105C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@jsonjoy.com\json-pack\lib\codecs\Codecs.d.ts133889653638181765 0
 81C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\multicast-dns\LICENSE133889653599150990 0
 99C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\lib\IgnoreErrorModuleFactory.js133889653649749057 0
@@ -864,6 +866,7 @@
 104C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack-dev-server\lib\servers\BaseServer.js133889653608650553 0
 103C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\lib\serialization\FileMiddleware.js133889653645183839 0
 84C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\csso\cjs\clean\index.cjs133636070402642165 0
+157C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\projectCover(wordSearch).386bdcf2.png133890128384347985 0
 76C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\error-ex\LICENSE133623985578080201 0
 96C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\thingies\es6\concurrencyDecorator.js133889653615849494 0
 101C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\node-gyp-build-optional-packages\index.js133636070363031661 0
@@ -1264,7 +1267,6 @@
 68C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\msgpackr133832230942994214 1
 83C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\get-proto\tsconfig.json133889653611150918 0
 90C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\events\tests\modify-in-emit.js133889653618571031 0
-152C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\projectCover(quote).72d5f51f.png133639041830469141 0
 73C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\parent-module133832230945415305 1
 74C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\weak-lru-cache133832230951057823 1
 112C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\serve-index\public\icons\page_white_actionscript.png133889653622993111 0
@@ -1803,6 +1805,7 @@
 86C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\css-what\lib\es\index.d.ts133623985625511100 0
 86C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\watcher\index.d.ts133636070384367401 0
 109C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\lib\web\JsonpChunkLoadingRuntimeModule.js133889653651415497 0
+174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\76\e8eaa941ce99b5fb21960c1db84199b8fe3d37133890128385711879 0
 103C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\core\test\fixtures\config\subfolder133636070391390407 1
 72C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\safer-buffer133889653608078338 1
 134C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js133636070382472932 0
@@ -1989,6 +1992,7 @@
 84C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\lib\DllPlugin.js133889653642672458 0
 76C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\websocket-driver133889653618767732 1
 75C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\qs\lib\index.js133889653607213276 0
+135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\76133890128385733386 1
 84C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\terser\lib\propmangle.js133889653626024957 0
 86C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\lightningcss\node\ast.d.ts133636070394646551 0
 80C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\websocket-extensions133889653614553262 1
@@ -2904,7 +2908,7 @@
 86C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\lib\NullFactory.js133889653655253544 0
 92C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\lib\util\propertyName.js133889653656163993 0
 106C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\lib\node\CommonJsChunkLoadingPlugin.js133889653630651163 0
-132C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects133639041834105138 1
+132C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects133890128388841565 1
 113C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\posthtml\node_modules\posthtml-parser\dist\index.d.ts133623985597458872 0
 101C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\memfs\lib\node\lists\fsCallbackApiList.js133889653622248745 0
 102C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\ajv\dist\vocabularies\dynamic\index.js.map133889653641572326 0
@@ -2961,7 +2965,7 @@
 92C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\lib\SelfModuleFactory.js133889653658143259 0
 94C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\terser\lib\compress\reduce-vars.js133889653626149786 0
 85C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\lib\serialization133889653659963711 1
-137C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\pack133637364257156703 1
+137C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\pack133890128378422533 1
 106C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb.c133636070426119814 0
 91C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\caniuse-lite\data\regions\NC.js133889653657679425 0
 91C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\semver\ranges\to-comparators.js133636070417761390 0
@@ -3467,6 +3471,7 @@
 98C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\thingies\lib\concurrencyDecorator.d.ts133889653630543183 0
 85C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\js-yaml\lib\type\float.js133636070381201425 0
 88C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\iconv-lite\encodings\utf7.js133889653619696231 0
+187C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\pack\pack-43df747b6f201b6754c76fe83e5529f68d1d05ee.rev133890128377522184 0
 90C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\svgo\plugins\removeMetadata.js133636070438807710 0
 104C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\lib\ids\OccurrenceModuleIdsPlugin.js133889653655495765 0
 91C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\caniuse-lite\data\regions\FJ.js133889653650249530 0
@@ -3585,7 +3590,7 @@
 117C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\lib\dependencies\HarmonyExportHeaderDependency.js133889653648265195 0
 75C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\node-forge\dist133889653628520675 1
 108C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\csso\node_modules\css-tree\cjs\syntax\create.cjs133636070407900850 0
-135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\ee133625100364352608 1
+135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\ee133890128385018419 1
 128C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\lib\dependencies\HarmonyExportImportedSpecifierDependency.js133889653648317850 0
 113C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\lib\dependencies\HarmonyExportInitFragment.js133889653648353568 0
 77C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\events\History.md133889653621061778 0
@@ -3756,6 +3761,7 @@
 105C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\ajv-keywords\dist\keywords\allRequired.js.map133889653623943815 0
 85C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\semver\functions\major.js133636070401651390 0
 81C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\htmlparser2\README.md133623985613091174 0
+188C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\pack\pack-43df747b6f201b6754c76fe83e5529f68d1d05ee.pack133890128388144983 0
 99C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\tapable\lib\AsyncSeriesWaterfallHook.js133889653613231499 0
 88C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\workers\src\index.js133636070400667300 0
 91C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\memfs\lib\thingies\Defer.js.map133889653631361767 0
@@ -3782,7 +3788,7 @@
 104C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@jsonjoy.com\json-pack\lib\ubjson\index.d.ts133889653639835349 0
 85C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\hot\dev-server.js133889653642249148 0
 82C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\webpack\hot\emitter.js133889653643279873 0
-134C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\logs\HEAD133639041833732965 0
+134C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\logs\HEAD133890128388342086 0
 91C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\runtime-browser-hmr\src133832233950517914 1
 113C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\transformer-postcss\lib\PostCSSTransformer.js133636070387415017 0
 79C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\css-tree\lib\parser133832233965069430 1
@@ -3899,7 +3905,6 @@
 76C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\vanilla-tilt\src133832231954507373 1
 90C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\vanilla-tilt\vanilla-tilt.d.ts133636070397191537 0
 78C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\terser\lib\size.js133889653626712138 0
-141C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\index.f228447a.js.map133639041830427647 0
 75C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\chalk\readme.md133623985594294853 0
 88C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\vanilla-tilt\test\index.html133636070362532997 0
 174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\e1\142036306671c005c2d400a68fdf5eb2fe410a133639041825536252 0
@@ -4160,7 +4165,7 @@
 95C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\send\node_modules\debug\src\node.js133889653617559868 0
 106C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\css-tree\cjs\definition-syntax\SyntaxError.cjs133636070454460932 0
 87C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\undici-types\mock-pool.d.ts133889653620936324 0
-135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\2a133639041825678379 1
+135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\2a133890128385459886 1
 85C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\undici-types\package.json133889653598150327 0
 100C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\serve-index\node_modules\ms\package.json133889653596270002 0
 97C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\ajv\dist\compile\validate\dataType.js133889653619455267 0
@@ -4217,7 +4222,7 @@
 97C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\make-dir\node_modules\.bin\semver.ps1133623985710409424 0
 100C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\type-fest\source\conditional-except.d.ts133623985604472753 0
 107C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\csso\node_modules\css-tree\cjs\parser\index.cjs133636070429040286 0
-151C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\refs\remotes\origin\master133639041826676942 0
+151C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\refs\remotes\origin\master133890128378384562 0
 115C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.sln133636070462072629 0
 91C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\thingies\es2020\TimedState.d.ts133889653636251213 0
 72C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\lmdb\open.js133636070458341804 0
@@ -4632,7 +4637,7 @@
 106C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.bin\node-gyp-build-optional-packages-optional133636070515786982 0
 97C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@jsonjoy.com\util\lib\lazyFunction.js133889653624342735 0
 80C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\term-size\index.d.ts133623985605401306 0
-158C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\projectCover(robofriends).070d6f6d.jpg133639041830598045 0
+158C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\projectCover(robofriends).070d6f6d.jpg133890128384368238 0
 79C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\parcel\node_modules133832233977909390 1
 89C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\hpack.js\lib\hpack\decoder.js133889653612973601 0
 109C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@popperjs\core\dist\esm\utils\rectToClientRect.js133636070481912005 0
@@ -5119,6 +5124,7 @@
 104C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\transformer-postcss\lib\constants.js133636070374297739 0
 79C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\serve-index\LICENSE133889653604488864 0
 84C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\serve-index\node_modules133889653588182213 1
+174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\2f\d71b7b21bd08dc6ed89a558777a1c859578b82133890128385844491 0
 87C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\memfs\lib\snapshot\types.js133889653628850676 0
 78C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\serve-index\public133889653629989353 1
 80C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\forwarded\HISTORY.md133889653601703123 0
@@ -5187,7 +5193,7 @@
 98C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\serve-index\public\icons\page_link.png133889653621778100 0
 101C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\bonjour-service\dist\lib\service-types.js133889653615859635 0
 97C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\serve-index\public\icons\page_red.png133889653622248745 0
-157C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\projectCover(smartBrain).b5f598d6.jpg133639041830469141 0
+157C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\projectCover(smartBrain).b5f598d6.jpg133890128384347985 0
 123C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\src\index.js133636070441504762 0
 92C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@swc\helpers\_\_set_prototype_of133636070483597950 1
 111C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\caniuse-lite\data\features\link-rel-dns-prefetch.js133889653655551940 0
@@ -5262,7 +5268,7 @@
 70C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\jquery\src133832231944550694 1
 105C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\serve-index\public\icons\page_white_stack.png133889653628395714 0
 104C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\serve-index\public\icons\page_white_text.png133889653628720324 0
-130C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\index.html133639041830427647 0
+130C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\index.html133890128384277840 0
 110C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\serve-index\public\icons\page_white_text_width.png133889653628811830 0
 86C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\email-addresses\bower.json133623985597145883 0
 104C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\serve-index\public\icons\page_white_word.png133889653629461573 0
@@ -5597,6 +5603,7 @@
 95C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\sass\types\value\argument_list.d.ts133636070439055336 0
 74C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\plugin133832231928505504 1
 93C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\sass\types\value\calculation.d.ts133636070440896007 0
+135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\36133890128388302053 1
 91C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\readable-stream\CONTRIBUTING.md133889653619676097 0
 85C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\sass\types\value\map.d.ts133636070447954991 0
 92C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\bootstrap\scss\_transitions.scss133636070486486384 0
@@ -5674,6 +5681,7 @@
 81C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\readdirp\package.json133623985611420144 0
 111C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\htmlnano\lib\modules\deduplicateAttributeValues.mjs133636070441030509 0
 93C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\readable-stream\errors-browser.js133889653614210993 0
+174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\08\347feac0d29f5e3559c8d04cd855f85873dba0133890128385399250 0
 80C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\async\rejectLimit.js133623985671109381 0
 91C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\caniuse-lite\data\regions\LR.js133889653655839461 0
 99C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\caniuse-lite\data\features\maxlength.js133889653656143536 0
@@ -5837,6 +5845,7 @@
 91C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\prettier\esm\parser-angular.mjs133636070454892439 0
 90C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\prettier\esm\parser-espree.mjs133636070457441063 0
 76C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\handle-thing\lib133889653601631330 1
+174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\2a\5ffdc9b908c2effae39c0f055cca4132839144133890128385442627 0
 80C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\neo-async\reflect.js133889653629191191 0
 91C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\prettier\esm\parser-glimmer.mjs133636070461507260 0
 113C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\ajv\dist\vocabularies\validation\limitProperties.d.ts133889653651548665 0
@@ -5851,7 +5860,6 @@
 88C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\prettier\esm\parser-yaml.mjs133636070468252452 0
 88C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\posthtml-render\changelog.md133623985585433069 0
 83C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\posthtml-render\license133623985568569065 0
-158C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\projectCover(musicplayer).b2c8a154.png133639041830633128 0
 96C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\memfs\lib\volume-localstorage.js.map133889653639014810 0
 88C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\posthtml-render\package.json133623985578612774 0
 85C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\math-intrinsics\sign.d.ts133889653622001020 0
@@ -5938,7 +5946,7 @@
 72C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\pify\license133623985577950975 0
 86C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\math-intrinsics\round.d.ts133889653621844003 0
 77C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\pify\package.json133623985568569065 0
-156C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\logs\refs\remotes\origin\master133639041826689413 0
+156C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\logs\refs\remotes\origin\master133890128378408803 0
 108C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@jsonjoy.com\json-pack\lib\json-pointer\index.js133889653622339965 0
 102C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@popperjs\core\dist\esm\utils\userAgent.js133636070482118980 0
 78C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\picomatch\index.js133636070358908862 0
@@ -6142,7 +6150,6 @@
 89C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\object-inspect\test\number.js133889653619455267 0
 93C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\object-inspect\test\quoteStyle.js133889653619649256 0
 94C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\object-inspect\test\toStringTag.js133889653620118214 0
-140C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\favicon.887424ff.png133639041830427647 0
 94C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\object-inspect\test\browser\dom.js133889653611744109 0
 89C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\object-inspect\example\all.js133889653602382538 0
 108C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\caniuse-lite\data\features\screen-orientation.js133889653661133743 0
@@ -6264,11 +6271,13 @@
 111C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\body-parser\node_modules\debug\src\inspector-log.js133889653617039849 0
 87C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\nodemon\doc\cli\authors.txt133889647848173307 0
 82C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\forwarded\package.json133889653599612529 0
+135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\74133890128385091563 1
 80C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@swc\helpers\scripts133832233958088843 1
 86C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\nodemon\doc\cli\config.txt133889647848173307 0
 87C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\nodemon\doc\cli\options.txt133889647848282251 0
 107C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\caniuse-lite\data\features\keyboardevent-key.js133889653654966456 0
 85C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\nodemon\doc\cli\usage.txt133889647848302397 0
+174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\74\06d84d03df8bb23d6629cba4921c25ec2a7edb133890128385073840 0
 85C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-css\src133832233944431085 1
 82C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\nodemon\bin\nodemon.js133889647847831336 0
 88C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\nodemon\bin\windows-kill.exe133889647847184946 0
@@ -6600,7 +6609,6 @@
 134C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Identifier.js133636070425523816 0
 81C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\mime\types\node.types133623985601029695 0
 105C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\caniuse-lite\dist\unpacker\browserVersions.js133889653629640230 0
-137C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\index.f228447a.js133639041830427647 0
 80C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\memfs\lib\node\types133889653643802993 1
 79C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\micromatch\index.js133636070356417439 0
 78C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\faye-websocket\lib133889653596571275 1
@@ -7147,6 +7155,7 @@
 76C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\jsonfile\LICENSE133623985568618835 0
 81C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\jsonfile\package.json133623985583003958 0
 106C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\caniuse-lite\data\features\css-nth-child-of.js133889653642249148 0
+174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\36\882648c165c5ff9ca0f20cffb071acaf19f57f133890128388287983 0
 77C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\jsonfile\utils.js133623985578017899 0
 70C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\json5\dist133832231945337014 1
 92C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\utils\src\escape-html.js133636070398362020 0
@@ -7751,7 +7760,7 @@
 110C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\htmlnano\lib\modules\collapseBooleanAttributes.cjs133636070366750869 0
 104C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\dom-serializer\node_modules\entities\LICENSE133623985568817159 0
 99C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\caniuse-lite\data\features\png-alpha.js133889653659609836 0
-129C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\HEAD133639041828706073 0
+129C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\HEAD133890128382157787 0
 110C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\htmlnano\lib\modules\collapseBooleanAttributes.mjs133636070438491601 0
 91C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\htmlnano\lib\modules\custom.cjs133636070372674860 0
 90C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\binary-extensions\package.json133636070361017901 0
@@ -7869,7 +7878,7 @@
 81C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\git\lib\git\commit.js133623985636481031 0
 82C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\esrecurse\esrecurse.js133889653605341920 0
 101C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\hpack.js\node_modules\readable-stream\doc133889653618767732 1
-135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\4b133625100377357954 1
+135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\4b133890128385131539 1
 115C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\hpack.js\node_modules\readable-stream\duplex-browser.js133889653612844291 0
 114C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\caniuse-lite\data\features\css-indeterminate-pseudo.js133889653641041850 0
 96C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\cosmiconfig\dist\cacheWrapper.js.map133636070393404683 0
@@ -8085,7 +8094,7 @@
 80C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\csso\dist\version.js133636070447477247 0
 113C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\css-select\node_modules\domutils\lib\esm\feeds.js.map133636070404850561 0
 91C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\caniuse-lite\data\regions\BF.js133889653627334798 0
-188C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\pack\pack-d4388c316abf2612da21b79d63471c33f975a370.pack133639041831400000 0
+188C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\pack\pack-d4388c316abf2612da21b79d63471c33f975a370.pack133890128385680222 0
 86C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\function-bind\CHANGELOG.md133889653611764848 0
 86C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\function-bind\package.json133889653610510683 0
 90C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\fast-deep-equal\es6\react.d.ts133889653612604820 0
@@ -8133,6 +8142,7 @@
 87C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\entities\lib\encode-trie.js133623985600154056 0
 85C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\fs-extra\lib\move\move.js133623985627867608 0
 142C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\refs\heads\master133624934319464954 0
+142C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\index.45bffc48.css.map133890128384395238 0
 88C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\fs-extra\lib\mkdirs\index.js133623985614394737 0
 91C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\fs-extra\lib\mkdirs\make-dir.js133623985625480953 0
 99C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\core\lib\dumpGraphToGraphViz.js133636070433231515 0
@@ -8427,7 +8437,6 @@
 79C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\es-errors\type.d.ts133889653618380978 0
 81C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@types\eslint\LICENSE133889653604632590 0
 83C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\es-errors\test\index.js133889653605163650 0
-152C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\projectCover(quote).01d7341a.png133639041830469141 0
 89C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\es-errors\.github\FUNDING.yml133889653618980015 0
 79C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\debug\src\common.js133889647847148375 0
 91C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\es-define-property\CHANGELOG.md133889653610083565 0
@@ -8588,7 +8597,7 @@
 121C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc133636070369655522 0
 80C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\domhandler\readme.md133623985598517806 0
 88C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\domhandler\lib\node.d.ts.map133623985595239349 0
-144C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\refs\heads\gh-pages133639041833721430 0
+144C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\refs\heads\gh-pages133890128388342086 0
 82C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\domhandler\lib\node.js133623985580801740 0
 82C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\domelementtype\LICENSE133623985568678591 0
 87C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\domelementtype\package.json133623985592601374 0
@@ -10427,6 +10436,7 @@
 98C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\ajv-keywords\dist\keywords\select.d.ts133889653634850293 0
 96C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\ajv-keywords\dist\keywords\select.js133889653622235186 0
 100C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\ajv-keywords\dist\keywords\select.js.map133889653627583247 0
+146C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\Codechef-logo.7edc3114.png133890128384265479 0
 95C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\package-manager\src\Pnpm.js133636070407575555 0
 103C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\ajv-keywords\dist\keywords\transform.js.map133889653627905157 0
 92C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@webassemblyjs\utf8\esm\index.js133889653613868791 0
@@ -10712,6 +10722,7 @@
 96C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\ajv\dist\vocabularies\jtd\union.d.ts133889653654481588 0
 94C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\ajv\dist\vocabularies\jtd\union.js133889653631502978 0
 97C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\ajv\dist\vocabularies\jtd\values.d.ts133889653654741364 0
+138C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\index.45bffc48.css133890128384378372 0
 99C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\ajv\dist\vocabularies\jtd\values.js.map133889653644842429 0
 100C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\ajv\dist\vocabularies\format\format.d.ts133889653649551450 0
 98C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\ajv\dist\vocabularies\format\format.js133889653622810614 0
@@ -10856,7 +10867,6 @@
 97C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@swc\helpers\_\_await_async_generator133636070473108904 1
 89C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\ajv\dist\compile\ref_error.js133889653629989353 0
 89C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\ajv\dist\compile\resolve.d.ts133889653653599749 0
-141C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\index.26fc93ff.js.map133639041830427647 0
 87C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\ajv\dist\compile\resolve.js133889653630444148 0
 87C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\ajv\dist\compile\rules.d.ts133889653653664448 0
 85C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\ajv\dist\compile\rules.js133889653630522660 0
@@ -11229,7 +11239,7 @@
 84C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@trysound\sax\lib\sax.js133623985577701737 0
 69C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@swc\core133832231934119663 1
 85C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@swc\types\index.d.ts.map133636070365569385 0
-149C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\logs\refs\heads\gh-pages133639041833743046 0
+149C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\logs\refs\heads\gh-pages133890128388357170 0
 80C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@swc\types\README.md133636070356851006 0
 84C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@swc\types\tsconfig.json133636070380111953 0
 76C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@swc\helpers\cjs133832233957809310 1
@@ -11243,7 +11253,6 @@
 103C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@swc\helpers\_\_check_private_redeclaration133636070473474222 1
 110C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure133636070473594231 1
 105C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@swc\helpers\_\_class_apply_descriptor_update133636070474329471 1
-140C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\profile.feddb244.jpg133639041830693645 0
 92C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@swc\helpers\_\_class_call_check133636070474521075 1
 109C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@swc\helpers\_\_class_check_private_static_access133636070474790685 1
 106C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@swc\helpers\_\_class_extract_field_descriptor133636070475217547 1
@@ -11671,6 +11680,7 @@
 105C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@popperjs\core\lib\modifiers\computeStyles.js133636070463108184 0
 110C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@popperjs\core\lib\modifiers\computeStyles.js.flow133636070463314527 0
 108C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@popperjs\core\lib\modifiers\eventListeners.d.ts133636070463494664 0
+174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\4b\a881568bda6d900e162fdca94efddd89ea9379133890128385121544 0
 101C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@popperjs\core\lib\modifiers\flip.js.flow133636070464858195 0
 98C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@popperjs\core\lib\modifiers\hide.d.ts133636070465121889 0
 99C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@popperjs\core\lib\modifiers\index.d.ts133636070465676979 0
@@ -11962,7 +11972,7 @@
 103C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\transformer-js\src\JSTransformer.js133636070377031169 0
 102C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\core\test\fixtures\parcel\index.js133636070443163093 0
 106C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\transformer-js\lib\esmodule-helpers.js133636070364321761 0
-126C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\assets133639041830377931 1
+126C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\assets133890128384164526 1
 89C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\transformer-image\src133832233953139135 1
 109C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\transformer-image\src\ImageTransformer.js133636070365900415 0
 107C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\transformer-image\src\validateConfig.js133636070377557588 0
@@ -12237,7 +12247,7 @@
 116C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\coa.js133636070388833196 0
 119C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\config.js133636070392129722 0
 131C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\css-select-adapter.js133636070402562159 0
-144C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\refs\remotes\origin133639041864606712 1
+144C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\refs\remotes\origin133890128419196524 1
 134C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\css-style-declaration.js133636070403468074 0
 99C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@jsonjoy.com\json-pack\lib\json\util.js133889653628143764 0
 120C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\jsAPI.d.ts133636070443599805 0
@@ -12393,6 +12403,7 @@
 123C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\procedure.js133636070378290086 0
 127C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors133636070410914776 1
 124C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\sort.d.ts.map133636070400717302 0
+146C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\Leetcode-logo.2d94857a.png133890128384277840 0
 121C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\types.d.ts133636070411817673 0
 125C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\types.d.ts.map133636070402572179 0
 119C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\types.js133636070386303277 0
@@ -12456,7 +12467,7 @@
 126C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\reusePaths.js133636070429913857 0
 125C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\sortAttrs.js133636070430457890 0
 132C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\sortDefsChildren.js133636070431396628 0
-153C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\refs\remotes\origin\gh-pages133639041864453697 0
+153C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\refs\remotes\origin\gh-pages133890128419158474 0
 132C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\_applyTransforms.js133636070360407825 0
 128C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\_collections.js133636070364216539 0
 121C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\_path.js133636070367561050 0
@@ -12491,6 +12502,7 @@
 101C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@babel\highlight\node_modules\ansi-styles133636070514749048 1
 114C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean133636070421096541 1
 117C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\index.js133636070409049330 0
+135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\2f133890128385864895 1
 120C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure133636070419760215 1
 137C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\1-mergeAtrule.js133636070357699837 0
 138C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\7-mergeRuleset.js133636070371123119 0
@@ -12511,7 +12523,7 @@
 117C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\dist\csso.js133636070401241302 0
 121C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\dist\csso.min.js133636070404940571 0
 113C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\data133636070459412139 1
-139C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\COMMIT_EDITMSG133639041833677287 0
+139C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\COMMIT_EDITMSG133890128388255626 0
 113C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\dist133636070411012844 1
 116C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\LICENSE133636070354909010 0
 130C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\definition-syntax133636070458497480 1
@@ -12956,6 +12968,7 @@
 112C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@jsonjoy.com\util\lib\buffers\StreamingReader.js.map133889653636610749 0
 100C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@jsonjoy.com\util\lib\buffers\strings.js133889653626626110 0
 100C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@jsonjoy.com\util\lib\buffers\toBuf.d.ts133889653644512962 0
+174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\06\d7a12a823fd91ef3f76f6ed092d3bc050e054b133890128385210567 0
 105C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@jsonjoy.com\util\lib\buffers\toUint8Array.js133889653627143674 0
 108C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@jsonjoy.com\util\lib\buffers\Uint8ArrayCut.d.ts133889653644863354 0
 101C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@jsonjoy.com\util\lib\buffers\Writer.d.ts133889653647454138 0
@@ -13225,31 +13238,27 @@
 112C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@babel\helper-validator-identifier\lib\identifier.js133636070359270652 0
 116C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\@babel\helper-validator-identifier\lib\identifier.js.map133636070362482994 0
 75C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages133832233937590183 1
-119C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git133832233937751148 1
-124C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git133890127375691629 1
-140C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\favicon.107cc816.png133639041830427647 0
-137C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\index.26fc93ff.js133639041830427647 0
-138C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\index.3bb2bd9c.css133639041830598045 0
-142C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\index.3bb2bd9c.css.map133639041830733638 0
-138C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\index.df2b8ec0.css133639041830469141 0
-142C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\index.df2b8ec0.css.map133639041830733638 0
-159C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\projectCover(iitrconnects).b079d09a.png133639041830427647 0
-159C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\projectCover(iitrconnects).fee21109.png133639041830427647 0
-156C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\projectCover(lightdark).1569dff3.png133639041830469141 0
-156C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\projectCover(lightdark).44c3f902.png133639041830469141 0
-135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\cc133637398642543171 1
-158C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\projectCover(musicplayer).5d42a9eb.png133639041830633128 0
-137C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\assets\resume.pdf133639041830427647 0
-135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\FETCH_HEAD133639041826719398 0
+119C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git133890128384240176 1
+124C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git133890130128107394 1
+149C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\Codeforces-logo.f8af7464.webp133890128384265479 0
+140C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\favicon.107cc816.png133890128384270587 0
+137C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\index.12a4da7d.js133890128384270587 0
+141C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\index.12a4da7d.js.map133890128384270587 0
+140C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\profile.9b3c7701.jpg133890128384368238 0
+159C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\projectCover(iitrconnects).b079d09a.png133890128384277840 0
+155C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\projectCover(megablog).22b86b64.png133890128384287985 0
+154C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\projectCover(secrets).d8683e6f.png133890128384287985 0
+137C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\assets\resume.pdf133890128384255317 0
+135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\FETCH_HEAD133890128378456858 0
 129C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\info133624934249442243 1
-134C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\ORIG_HEAD133639041829693439 0
+134C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\ORIG_HEAD133890128383216964 0
 129C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\refs133624934319364513 1
-135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\refs\heads133639041833753069 1
+135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\refs\heads133890128388357170 1
 137C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\refs\remotes133624934319364513 1
 134C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\refs\tags133624934257785086 1
 149C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\refs\remotes\origin\HEAD133624934319364513 0
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\01133624934552593025 1
-135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\08133638805718145979 1
+135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\08133890128385429257 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\0b133637398651350957 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\0f133637398651900982 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\13133638213664228716 1
@@ -13276,14 +13285,16 @@
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\97133638805717945583 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\99133638213661929606 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\a3133638805728587394 1
+135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\a5133890128385595604 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\a8133638805710888813 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\a9133638213655765261 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\ad133638213647215659 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\b1133638213654978629 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\b4133638805718725533 1
-135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\be133625100364392074 1
+135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\be133890128388175563 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\c1133639041825852313 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\c8133638805718644793 1
+135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\cc133637398642543171 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\cf133639041818033015 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\da133639041833591886 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\dc133637398651171394 1
@@ -13293,14 +13304,18 @@
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\e3133638213647413461 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\e6133637398651942276 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\ea133638213655264386 1
+135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\f6133890128385649674 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\fb133637398651838609 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\fe133638213647175193 1
 135C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\ff133639041818076185 1
-188C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\pack\pack-5c20280f69c48bef19aa51b14118c1ee046026fe.pack133639041831400000 0
+187C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\pack\pack-43df747b6f201b6754c76fe83e5529f68d1d05ee.idx133890128377512180 0
+188C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\pack\pack-5c20280f69c48bef19aa51b14118c1ee046026fe.pack133890128385028409 0
 187C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\pack\pack-5c20280f69c48bef19aa51b14118c1ee046026fe.rev133637364256423728 0
 187C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\pack\pack-d4388c316abf2612da21b79d63471c33f975a370.rev133624934318348660 0
 174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\fe\3e8f16d371bf642a0b21f8d9d1b619c9270e95133638213647143246 0
 174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\fb\739645ce82aa52f8a8517722a55edfc5eb40b1133637398651813500 0
+174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\f6\c3c61ea3ab4bcab6d4e938923c20d8bd9d5182133890128385641498 0
+174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\ee\cf2e429b349479e0b3208d3b8d715bd94736c2133890128384996550 0
 174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\e9\cb45b166ff2aca36b2993d196b8f4367d09f35133639041831491219 0
 174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\e6\2eb89cae045d4760d1766bb0913a94dacd22d7133637398651926414 0
 174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\dd\bc5f7946cfed8c8ea98a37bc2ba52d8c963890133638213654719210 0
@@ -13320,6 +13335,7 @@
 174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\a9\86e79d3b2e2d275f84245ee8ecd527086da5cd133638213655745103 0
 174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\a8\402a31351193ffa5ce4d2a6aa192235af4ed3c133638805710868782 0
 174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\a6\7cc4d267fc2041701a4cb457d5e28e93379379133625100370148432 0
+174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\a5\5b8c5ab5a04fea5d308040c87b38017f7853e1133890128385585600 0
 174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\a0\ab2779c40885572393fb93981d5ed8b0a29555133637398651296588 0
 174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\95\2f393f1826e32134dd3dc22ca603861b7e0edb133638213647245668 0
 174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\93\7cb514e279b4d649114651f66f850679bd4fb1133637398642486949 0
@@ -13356,7 +13372,7 @@
 174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\02\9ff3a42da22664be078b36d9145b2c1783f378133625100366565094 0
 174C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\objects\02\d3c1f6b3fe9891d8b1f5fa7b823ac8804ae398133638213655063870 0
 149C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\logs\refs\remotes\origin133625100370965075 1
-158C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\logs\refs\remotes\origin\gh-pages133639041864586624 0
+158C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\logs\refs\remotes\origin\gh-pages133890128419186301 0
 148C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\hooks\commit-msg.sample133624934249298454 0
 156C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\hooks\fsmonitor-watchman.sample133624934249312442 0
 152C:\Users\ACER\OneDrive\Desktop\Dev\myPortfolio\node_modules\.cache\gh-pages\https!github.com!iamaryankr!myPortfolio.git\.git\hooks\pre-applypatch.sample133624934249331931 0
